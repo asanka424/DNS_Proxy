@@ -18,9 +18,9 @@ TEMPLATE = app
 SOURCES += main.cpp \
     dnsrequest.cpp \
     dnslistner.cpp \
-    logger.cpp
+    master.cpp
 
 HEADERS += \
     dnsrequest.h \
     dnslistner.h \
-    logger.h
+    master.h
